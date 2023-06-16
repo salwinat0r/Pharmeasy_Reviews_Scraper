@@ -1,6 +1,9 @@
 from bs4 import BeautifulSoup
 import requests
 import pandas as pd
+import time
+from selenium import webdriver
+from selenium.webdriver.common.keys import Keys
 
 
 class Scraper:
@@ -12,14 +15,14 @@ class Scraper:
         response = requests.get(self.url)
         self.content = BeautifulSoup(response.text, 'html.parser')
 
-    def price(self):
+    def get_price(self):
         response = requests.get(self.url)
         content = BeautifulSoup(response.text, 'html.parser')
         for div in content.findAll('div', attrs={'class':'ProductPriceContainer_mrp__mDowM'}):
             return div.text
 
 
-    def rating(self):
+    def get_rating(self):
         response = requests.get(self.url)
         content = BeautifulSoup(response.text, 'html.parser')
         div = content.find('div', class_='OverviewSection_starsDiv___fLfB')
@@ -32,7 +35,30 @@ class Scraper:
 
 #reviews
     def reviews_csv(self):
-        review_url = requests.get(self.url + "/reviews")
+        
+        options = webdriver.ChromeOptions()
+        options.add_argument("--headless")  # Run Chrome in headless mode
+        options.add_argument("--no-sandbox")
+        options.add_argument("--disable-dev-shm-usage")
+
+        chromedriver_path = "C:/Users/salwy/Downloads/chromedriver_win32/chromedriver.exe"
+
+        driver = webdriver.Chrome("C:/Users/salwy/Downloads/chromedriver_win32/chromedriver.exe", options)
+        driver.get(self.url + "/reviews")
+        time.sleep(3)
+
+        while True:
+            driver.find_element_by_tag_name('body').send_keys(Keys.END)
+            time.sleep(2)  # Wait for the page to load new reviews
+
+            last_review = driver.find_elements_by_class_name("RecentReviews_noMoreReviews__1Cx2F")
+            if last_review:
+                break
+
+        page_source = driver.page_source
+        driver.quit()
+
+        review_url = requests.get(page_source + "/reviews")
         content = BeautifulSoup(review_url.text, 'html.parser')
         names_content = content.findAll('div', attrs={'class': 'RecentReviews_reviewAuthor__2W0xn'})
         comment_body = content.findAll('div', attrs={'class': 'RecentReviews_reviewComment__63GHI'})
