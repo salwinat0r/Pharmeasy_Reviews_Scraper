@@ -22,13 +22,14 @@ class Scraper:
         response = requests.get(self.url)
         self.content = BeautifulSoup(response.text, 'html.parser')
 
+    #retrieve price of the product
     def get_price(self):
         response = requests.get(self.url)
         content = BeautifulSoup(response.text, 'html.parser')
         for div in content.findAll('div', attrs={'class':'ProductPriceContainer_mrp__mDowM'}):
             return div.text
 
-
+    #retrieve ratings given to the product
     def get_rating(self):
         response = requests.get(self.url)
         content = BeautifulSoup(response.text, 'html.parser')
@@ -40,9 +41,9 @@ class Scraper:
             ratings.append(svg_id.split("_"))
         return float(ratings[len(ratings)-1][1]) + float(ratings[len(ratings)-2][1])
 
-#reviews
+    #extract reviews in a csv file
     def reviews_csv(self):
-        page_source = scroll(self.url)
+        page_source = scroll(self.url) #scroll till bottom to load all the reviews
         review_url = requests.get(page_source)
         content = BeautifulSoup(review_url.text, 'html.parser')
         names_content = content.findAll('div', attrs={'class': 'RecentReviews_reviewAuthor__2W0xn'})
@@ -65,14 +66,13 @@ class Scraper:
             for svg in svgs:
                 svg_id = svg.get('id')
                 ratings.append(svg_id)
-        # for i in range(len(ratings)):
-        #     if ratings[i] == 'recentReview_0':
-        #         print(ratings[i-1])
+
         interval = 5
-        list_of_lists = [ratings[i:i+interval] for i in range(0, len(ratings), interval)]
+        list_of_lists = [ratings[i:i+interval] for i in range(0, len(ratings), interval)]# create a list of all the reviews in another list
 
         output_list = []
-
+        
+        # push the ratings right before a recentReview_0 as the final ratings in a list  
         for sublist in list_of_lists:
             if "recentReview_0" in sublist:
                 index = sublist.index("recentReview_0")
@@ -86,6 +86,7 @@ class Scraper:
 
         reviews_dict = {'Reviewer Name': names, 'Date': date, "Stars": output_list, "Review": comment}
         # print(len(names), len(review), len(date))
+        #convert this into a dataframe
         df = pd.DataFrame.from_dict(reviews_dict, orient='index')
         prod_reviews = df.T
         prod_reviews.to_csv('reviews.csv', index=False, header=True)
