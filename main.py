@@ -4,6 +4,13 @@ import pandas as pd
 import time
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.common.by import By
+from selenium_scroller import scroll
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.support.ui import WebDriverWait
+
+
+
 
 
 class Scraper:
@@ -35,30 +42,8 @@ class Scraper:
 
 #reviews
     def reviews_csv(self):
-        
-        options = webdriver.ChromeOptions()
-        options.add_argument("--headless")  # Run Chrome in headless mode
-        options.add_argument("--no-sandbox")
-        options.add_argument("--disable-dev-shm-usage")
-
-        chromedriver_path = "C:/Users/salwy/Downloads/chromedriver_win32/chromedriver.exe"
-
-        driver = webdriver.Chrome("C:/Users/salwy/Downloads/chromedriver_win32/chromedriver.exe", options)
-        driver.get(self.url + "/reviews")
-        time.sleep(3)
-
-        while True:
-            driver.find_element_by_tag_name('body').send_keys(Keys.END)
-            time.sleep(2)  # Wait for the page to load new reviews
-
-            last_review = driver.find_elements_by_class_name("RecentReviews_noMoreReviews__1Cx2F")
-            if last_review:
-                break
-
-        page_source = driver.page_source
-        driver.quit()
-
-        review_url = requests.get(page_source + "/reviews")
+        page_source = scroll(self.url)
+        review_url = requests.get(page_source)
         content = BeautifulSoup(review_url.text, 'html.parser')
         names_content = content.findAll('div', attrs={'class': 'RecentReviews_reviewAuthor__2W0xn'})
         comment_body = content.findAll('div', attrs={'class': 'RecentReviews_reviewComment__63GHI'})
