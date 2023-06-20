@@ -18,7 +18,8 @@ def get_reviews(product_url: ProductURL):
 
     price = product.get_price()
     rating = product.get_rating()
-    reviews = product.reviews_csv()
+    reviews = product.get_reviews()
+    productID = product.get_productID()
 
     result = {
         "price": price,

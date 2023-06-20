@@ -1,31 +1,781 @@
-Reviewer Name,Date,Stars,Review
-DEVIPrasad Gautam,31 months ago,4,"""I use just 6days but i think good thanks"""
-Naresh Goswami,30 months ago,5,"""Very healthful"""
-Subhendu Rudra,30 months ago,4,"""Tulsi Giloy is terrible in taste"""
-Abdulnasir Parekh,28 months ago,5,"""Karela + Jamun = SUGAR GONE"""
-jose k abraham,28 months ago,5,"""Amazing ! Very good product."""
-Deepak Kumar,27 months ago,5,"""Taste is nice. Great for diabetic people."""
-Hashim Shaikh,26 months ago,5,"""Verry good prodact"""
-Usha Rajendra Kadam,22 months ago,5,"""Nice one"""
-Asha Gupta,21 months ago,5,"""It is very use ful for me"""
-Panda,22 months ago,1,"""Bad...terribly bad...not value for money...would request refund"""
-Niranjan K Khandare,21 months ago,4,"""This is good for health"""
-Pradeep,21 months ago,5,"""I like your product"""
-Sabyasachi Paul,21 months ago,5,"""Good"""
-Ranjan Kumar Mishra,21 months ago,5,"""fine"""
-Kirti Kumar Ashar,25 months ago,5,"""It is effective"""
-Manish Baranwal,25 months ago,4,"""Goood"""
-BIKASH BHATTACHARJEE,20 months ago,2,"""I feel batter."""
-Rasikbhai Dhulabhai Amin,20 months ago,5,"""ખૂબજ સરસ અને અસરકારક જ્યૂસ છે.આ જ્યૂસ લેવાથી સારૂ પરિણામ મળી રહ્યું છે.આભાર આપની સમગ્ર ટીમનો.આપ સશક્ત ભારતનું નિર્માણ કરી રહ્યા છો."""
-Hfhj,19 months ago,5,"""Gives better results."""
-Mohamed Nazir Ahamed,24 months ago,4,"""Good product"""
-Naresh Singh,24 months ago,5,"""Satisfactory"""
-Usha Rajendra Kadam,24 months ago,5,"""Nice"""
-Jayprakash Singh,19 months ago,5,"""Very satisfactory. Thanks"""
-Subham Chowdhury,19 months ago,3,"""Like"""
-PAVANI KATTA Katta,19 months ago,5,"""Ok"""
-Shyam Kulkarni,19 months ago,4,"""Found good in controlling sugar level."""
-Vinay Kumar Thota,23 months ago,5,"""Bought it for my mom who's diabetic. She's been consuming it since a month and her gluco levels have come down substantially."""
-Raja Kishore Nag,24 months ago,5,"""Useful product"""
-A,22 months ago,4,"""It's a good suger control"""
-Jaydeep Biswas,17 months ago,4,"""Average se good"""
+customerName,score,review,posted
+DEVIPrasad Gautam,4,"""I use just 6days but i think good thanks""",31 months ago
+Naresh Goswami,5,"""Very healthful""",31 months ago
+Subhendu Rudra,4,"""Tulsi Giloy is terrible in taste""",30 months ago
+Abdulnasir Parekh,5,"""Karela + Jamun = SUGAR GONE""",28 months ago
+jose k abraham,5,"""Amazing ! Very good product.""",28 months ago
+Deepak Kumar,5,"""Taste is nice. Great for diabetic people.""",27 months ago
+Hashim Shaikh,5,"""Verry good prodact""",27 months ago
+Usha Rajendra Kadam,5,"""Nice one""",22 months ago
+Asha Gupta,5,"""It is very use ful for me""",22 months ago
+Panda,1,"""Bad...terribly bad...not value for money...would request refund""",22 months ago
+Niranjan K Khandare,4,"""This is good for health""",22 months ago
+Pradeep,5,"""I like your product""",21 months ago
+Sabyasachi Paul,5,"""Good""",21 months ago
+Ranjan Kumar Mishra,5,"""fine""",21 months ago
+Kirti Kumar Ashar,5,"""It is effective""",26 months ago
+Manish Baranwal,4,"""Goood""",25 months ago
+BIKASH BHATTACHARJEE,2,"""I feel batter.""",20 months ago
+Rasikbhai Dhulabhai Amin,5,"""ખૂબજ સરસ અને અસરકારક જ્યૂસ છે.આ જ્યૂસ લેવાથી સારૂ પરિણામ મળી રહ્યું છે.આભાર આપની સમગ્ર ટીમનો.આપ સશક્ત ભારતનું નિર્માણ કરી રહ્યા છો.""",20 months ago
+Hfhj,5,"""Gives better results.""",20 months ago
+Mohamed Nazir Ahamed,4,"""Good product""",24 months ago
+Naresh Singh,5,"""Satisfactory""",24 months ago
+Usha Rajendra Kadam,5,"""Nice""",24 months ago
+Jayprakash Singh,5,"""Very satisfactory. Thanks""",19 months ago
+Subham Chowdhury,3,"""Like""",19 months ago
+PAVANI KATTA Katta,5,"""Ok""",19 months ago
+Shyam Kulkarni,4,"""Found good in controlling sugar level.""",19 months ago
+Vinay Kumar Thota,5,"""Bought it for my mom who's diabetic. She's been consuming it since a month and her gluco levels have come down substantially.""",23 months ago
+Raja Kishore Nag,5,"""Useful product""",24 months ago
+A,4,"""It's a good suger control""",22 months ago
+Jaydeep Biswas,4,"""Average se good""",17 months ago
+Shashi Sampath,3,"""Still no result""",16 months ago
+Anil B Rajani,4,"""Good i think my sugar levels are improving i need more bottles please how do i order""",19 months ago
+S K Basu,5,"""Very nice product.""",19 months ago
+Vinayak Patil,4,"""The product has made improvement in the patient""",18 months ago
+Abinash Prasad,5,"""Good preparation""",18 months ago
+Imtiaz Karari,4,"""Measurement cap provided wd bottle is hopeless""",19 months ago
+Aditya Prasad Panda,5,"""Bohot acha product ha""",19 months ago
+DHABALESWAR MAHAKUR,4,"""Good""",19 months ago
+Veena Jagannath,5,"""Fine Product.But Changed Packing to Plastic Cover.""",18 months ago
+Sujit Verma,5,"""Good""",18 months ago
+Basanta Kumar Panda,5,"""My Sugar level is satisfactory""",19 months ago
+MOHAMMED IQBAL,4,"""Healty""",19 months ago
+NANHELAL maurya,5,"""Good""",18 months ago
+Farida Buhariwala,4,"""Very effective for controlling sugar""",15 months ago
+AGNELO,5,"""Good for health""",15 months ago
+Ranjan Saikia,5,"""I feel good""",15 months ago
+Harbhajan Sing,4,"""I. Like this product being useful for my health""",14 months ago
+Himanshu Jaiswal,5,"""It's a good product. My mother is using it and she got her sugar littile bit more controlled.""",14 months ago
+Ravi Babu,1,"""Medicine damaged""",14 months ago
+Shyam Narain Singh,1,"""No change in my sugar""",15 months ago
+JERRY PINTO,4,"""Good""",14 months ago
+Anand Pawade,4,"""Good and quality product""",14 months ago
+Srinivasan R,3,"""The rating can be given only after i take the juice continuously for one month and based on test results.\n\nFurther i had ordered for only one litre and was delivered three litres and charges recovered for 3 litres.\n\nWould like to return the balance two litres and obtain refund""",14 months ago
+Sunil Kumar PassI,4,"""I have started only two ago.""",14 months ago
+Ajit Singh,3,"""Felt like sugar level was okay after having it.""",14 months ago
+Keshavan Somasunder,5,"""yes it works""",14 months ago
+FULCHAND MAURYA,2,"""product not sure...""",14 months ago
+Nagesh,4,"""I already used the same product its ok""",14 months ago
+MANISH GHOSH,5,"""Important drink for health""",14 months ago
+Sunnygill,5,"""good""",14 months ago
+Shambhu Nath Singh,4,"""Herbal products are good""",14 months ago
+Ravi Gholap,4,"""Good thanks 🙏""",15 months ago
+Prince Kumar,5,"""Like very nice""",15 months ago
+Rajendrraa Rangolay,5,"""Nice""",15 months ago
+Shankar Maisa,5,"""Luke""",15 months ago
+Ram Krishan Gupta,4,"""Good""",15 months ago
+NEERA SAXENA,4,"""Nice 😊""",15 months ago
+Kamalakar,5,"""Effective and for diabetic""",15 months ago
+Shiv Shakti,1,"""Maine one week use Kiya but after sugar test my fasting 220 mgdl so mujhe nahi like hua ye product main refund kerwa donga""",13 months ago
+Vivek Kumar Singh,4,"""Good""",13 months ago
+Imran Ali,1,"""Very poor product, Don't like it""",13 months ago
+Sunita Kumari,4,"""Very useful product.  Thank you pharmeasy""",14 months ago
+Tarun,5,"""Feel good""",13 months ago
+Suvankar De,3,"""Good""",13 months ago
+Aryan Sagar,4,"""delevery of medicine is better than other pharmacy app""",13 months ago
+Dinesh Berawala,5,"""Good product to maintain Diabetic Sugar level for Diabetic patients.""",13 months ago
+Gopinath Mohanty,5,"""Good product""",13 months ago
+Kanvarnonihal Singh,4,"""Good""",13 months ago
+Maheshwari,5,"""This. Product isextrmly good""",13 months ago
+Bharat Lal Ranga,2,"""Kadwi dawa koi nahi laga""",12 months ago
+Anushri Naik,5,"""Superb""",11 months ago
+Ajit Champaneri,4,"""Its taste.not liked""",12 months ago
+Samarjit Mohapatra,1,"""I had not ordered this product. From your side u have sold it""",12 months ago
+Ravindra Kankariya,5,"""Excellent. It's very good for digestion.""",12 months ago
+DheerajKumar kumar,2,"""I am not satisfy""",12 months ago
+Anil,5,"""Awesome""",11 months ago
+Soumitra,4,"""This product make me energetic""",11 months ago
+Vibhakar Kushwaha,5,"""I feel more energetic after the use of this product.""",12 months ago
+T Das,4,"""It's efficacy is yet to be found out.""",12 months ago
+jithendar  Jain ,3,"""After opening have consume soon . Or else smell comes in it .""",12 months ago
+K.c.mukund,5,"""The product is great but you have not provided measuring shot in spite of paying a heavy amount.""",11 months ago
+Sunil Bhat,4,"""Rate fluctuations""",12 months ago
+Nadeem,5,"""Product""",11 months ago
+Mohammad Shafi Uddin,5,"""All items like""",9 months ago
+Mohd Irshad Ahmed,5,"""Good""",9 months ago
+S Balasubramanian,5,"""Excellent in controlling sugar.""",9 months ago
+Shekhar Jere,5,"""It’s good & effective product""",9 months ago
+Meena Dashrath Rane,4,"""Ilike this products""",8 months ago
+Mahesh Jain,3,"""Good""",8 months ago
+P Harpreet Singh,5,"""Very super""",8 months ago
+Bidhan Haldar,1,"""Not delivered that product after taking money. Very poor service by pharmeasy""",8 months ago
+Yasir Azam,5,"""Good product""",8 months ago
+DIPAK KUMAR DAS,5,"""It definitely reduces sugar level . Thanks !""",8 months ago
+AMRITA DEY,5,"""Good""",8 months ago
+Sujeet Dash,2,"""Like duplicate product""",9 months ago
+Prakash Maheshwari,4,"""Good product for controlling diabetes""",9 months ago
+Alin Varghese,5,"""This product helped to control my hunger pangs""",9 months ago
+Rajendra Jagdale,5,"""Nice product good result""",8 months ago
+Anil Kumar Dibey,4,"""Nice""",8 months ago
+RAM CHANDRA,5,"""Easy to consume""",7 months ago
+Rr,1,"""I haven't noticed a thing. No reduction in blood sugar either""",6 months ago
+Josana,2,"""Excellent""",6 months ago
+NURUL HUSSAIN,4,"""Good""",6 months ago
+Sujeet John,4,"""It's Nice 👌""",7 months ago
+Meena Dashrath Rane,5,"""I like a products i taken afternoon after lunch and at night after dinnervery helpfull tpwt controed""",7 months ago
+Ram Krishan Gupta,5,"""Like product""",7 months ago
+Om Sharma,1,"""earlier karela jamun juice was having good but now  there is change in product. there is change.""",7 months ago
+Anjusahu,5,"""Anju""",6 months ago
+Vipin Agrawal,5,"""Nice""",6 months ago
+Jay Prakash,3,"""Its real work in matain sugar level""",7 months ago
+D,5,"""Good""",7 months ago
+G,5,"""Karela jamun juice is evergreen to maintain the sugar level in any type of Diabetic patients.""",6 months ago
+Chetan Sheth,5,"""Maintain health""",7 months ago
+M Laskar,5,"""Good product""",7 months ago
+Rajendrakumar Purohit,5,"""Good""",7 months ago
+Rajanna K,3,"""Cost of the medicine should be reduced to Rs 150/_.""",7 months ago
+Prashant,5,"""Product is very good for diabetic persons.""",7 months ago
+Rupesh Gaikwad,4,"""Excellent""",5 months ago
+Atiqua Mazhar,4,"""I like this product very much, I helps alot to control suger""",5 months ago
+Naimish J Tamakuwala,5,"""Excellent""",3 months ago
+A,5,"""Satisfied the good result Sir""",5 months ago
+Mahesh Pareek,5,"""Usefull""",5 months ago
+Manohar Jageshiya,5,"""After consuming one lt of Karel a, Jamun juice, definitely sugar level has come down.At present I am out of town,I will be back after 1month, I will contact you""",4 months ago
+Basavraja K,5,"""Excellent juice""",4 months ago
+Dr Prithviraj K Patil,5,"""Very good product for health""",4 months ago
+JAGAMOHAN,5,"""Nice""",3 days ago
+Ivy Stella Dsouza,1,"""Upset my health""",2 months ago
+Gopal Chandra Mandal,2,"""Till now Allopathy medicine is taking as previous""",1 weeks ago
+Sharad Babar,5,"""Product is good""",2 months ago
+PharmEasy User,4,"""Good""",2 months ago
+Varadarajan Ps,4,"""It gives some sort of stamina&strength when took on empty stomach in the mornings.we could find the difference when compared to similar products.""",1 months ago
+Venkataramanarao V S,5,"""Good product""",1 months ago
+kamalakar gangadhar diwakar,5,"""It is excellent juce for diabetic patient""",1 months ago
+Hariharan Nair,4,"""Karela n jamun r proved effective in controlling diabetes. Hence trying.""",31 months ago
+Rajanna. K,3,"""Experienced low sugar levels.""",31 months ago
+Manu Gaurang,5,"""Fresh n value for money""",28 months ago
+jose k abraham,5,"""Very good product,Excellent service also""",28 months ago
+Ritayan Pal,5,"""I like""",27 months ago
+Jayanta Chatterjee,3,"""Somehow not so effective""",27 months ago
+Hashim Shaikh,5,"""Best""",27 months ago
+Suresh,5,"""Seems to be effective.""",24 months ago
+A,1,"""They sent wrong item insted of karela juice they send tulsi juice""",24 months ago
+Mufaddal Anis,5,"""Recommended for diabetes patients""",22 months ago
+Tapas Bhakta,1,"""1""",22 months ago
+Kasam Diwan,5,"""Best product for diabetic""",22 months ago
+Dushyant Kumar Tiwari,5,"""Excellent""",23 months ago
+Abdulgani Sisodiya,5,"""verry good product""",23 months ago
+ManoharLincoln  Gnaniah ,5,"""Goods nice""",22 months ago
+Niranjan K Khandare,4,"""This is. Healthy juce""",21 months ago
+S N Sinha,4,"""Due to very severe cold, running nose and sore throat, I have temporarily discontinued use of this juice for the  time being after using six days. Will resume once I am free from cold and sore throat roat.""",21 months ago
+Pramod Kumar Tyagi,5,"""Good Product""",21 months ago
+MANVENDRA JHA,4,"""Good 👍""",21 months ago
+Satish,2,"""Bekaar""",15 months ago
+Bharat P Mehta,4,"""Good""",15 months ago
+Anup Sensarma,5,"""Like""",15 months ago
+Pradip Kothari,2,"""Not found much affective consume 3 bottles in 2 months now what is the next course of action please suggest""",15 months ago
+Amit Sharma,5,"""Quality awesome""",15 months ago
+M G Bhandarkar,4,"""Just started cource. Effectiveness may be after 15 days.""",15 months ago
+Ram Krishan Gupta,5,"""Good""",15 months ago
+Akash Anand,4,"""So far l am enjoying.""",15 months ago
+DHANANJAYA MISHRA,5,"""It is better""",19 months ago
+Sanjay Goyal,5,"""Ok""",19 months ago
+.,3,"""Still can't tell the difference""",19 months ago
+PRAFUL   DESAI ,5,"""After consumption I feel it’s effective and worth buying.""",19 months ago
+Smt Kamala Devi,5,"""Maintain low sugar level""",19 months ago
+Sudha Narayanan,4,"""Its good.  If it helps me maintain my sugar level""",19 months ago
+Hn,1,"""Because loose motion""",21 months ago
+PharmEasy User,5,"""Well deliverd thnk""",20 months ago
+Prashant Bhanushali,5,"""Very good product""",20 months ago
+Nahtab,1,"""करेला जामुन जूस के जगह दूसरा जूस भेज दिया है 🙏""",20 months ago
+C Rama,4,"""very much like the product""",15 months ago
+Md Shah Alam,5,"""This product is very useful for us.\nSugar levels is normal""",14 months ago
+Md Salim Patel,5,"""Very good""",14 months ago
+Sandeep Taide,2,"""Poor""",14 months ago
+Md Salim Patel,5,"""Very nice product""",14 months ago
+Renu Agarwal,5,"""Karela jamun juice""",14 months ago
+Paresh Popat,5,"""Nice n iffective products""",14 months ago
+RAMESH SHEWALE,2,"""Not effected not loosing weight""",14 months ago
+Shankar Maisa,5,"""Good""",14 months ago
+Farid Najmuddin Shaikh,4,"""Nice product""",14 months ago
+Kalpesh Patel,5,"""Excellent""",14 months ago
+Kalpana Mistry,4,"""I like the product""",20 months ago
+Rajanna. K,4,"""Satisfied with the function ing.But the price of the product should be reduced reasonably up to ₹ 150/.""",21 months ago
+Anup Kumar Sinha,4,"""Medicine is good""",19 months ago
+Satyapal Arvindaksha Menon,4,"""Good product. Genuine taste of amla. Packaging Good. Price should be brought down.""",19 months ago
+Sanjay Gupta,3,"""Nothing""",19 months ago
+Shantha Kumar D,5,"""Test""",20 months ago
+MRS ANJALI WARTY,4,"""I liked  it  very  much""",20 months ago
+Nigam Prasad Mishra,3,"""I think it is better not best""",20 months ago
+KESHAVLAL BUDHIABHAI TANDEL,4,"""In morning with out any food it is helpful.Can I take twice a day?""",19 months ago
+Muneshwar Dayal,5,"""Controls body weight, improves digestion, refresh the body after talking.""",19 months ago
+Vinodkumar,2,"""No effect to reduce sugar level""",18 months ago
+Maxie Rodrigues,4,"""Awaiting for result""",13 months ago
+Shah Krishnavijay,5,"""Good one and seems to be effective on prima facie basis and will give final opinion after one month thanks""",13 months ago
+Dinesh Chand Upadhyay,5,"""Quality and taste of the product is good""",13 months ago
+Jayant Mali,4,"""Excellent product""",13 months ago
+M L Gupta,5,"""Good product & useful""",12 months ago
+K S Dadwal,4,"""Tastes good results awaited""",13 months ago
+JANAKIRAMAN KOTHAKOTA,4,"""Like its taste; but suspect some ingredients mixed with the karela juice might harm our body parts.""",13 months ago
+Raja Babu,5,"""Likes""",13 months ago
+ravindra kumar,5,"""Good results""",13 months ago
+Shankar Shaw,4,"""Good""",12 months ago
+KURIAKOSE,5,"""Woderful prompt, dependable SERVICE, thank you team PharmEasy...!!!!!""",12 months ago
+Frederick Phillips,5,"""It is easy to drink""",12 months ago
+Amit Yadav,4,"""Nice Product.""",11 months ago
+Kalpana Bhatia,4,"""Good for health""",18 months ago
+Mongaldip Maity,5,"""Good""",17 months ago
+Dharmendra Kanaiya,5,"""My sugar level regular now""",17 months ago
+PharmEasy User,4,"""Should be effective""",14 months ago
+Lakshman kumar Chaudhrani,5,"""fabulous""",14 months ago
+Shripad Sangwai,4,"""Very nice""",13 months ago
+SUBHASH G DHARMANI,4,"""products are nice""",14 months ago
+Dinkar Pancholi,3,"""So So.""",14 months ago
+Ameerjhan Ameerjhan,5,"""Good""",14 months ago
+ARIYAMUTTU,5,"""I returned""",13 months ago
+Manoj Kumar Lal,5,"""Product is very good""",13 months ago
+Viplaw Kashyap,3,"""Good for stomach""",11 months ago
+Ajit Champaneri,4,"""Try to make it sweet by adding jaggery.""",11 months ago
+PharmEasy User,4,"""Product  is same as I ordered and helpful for maintain diabetes""",11 months ago
+Dulam Rama Krishna,2,"""Quality of items are not up to the Mark""",9 months ago
+Rajagopal,5,"""Effective""",9 months ago
+Rahul Masurkar,5,"""Great experience""",8 months ago
+S Balasubramanian,5,"""It helps in controlling sugar""",8 months ago
+Sunil Sanas,4,"""Good""",7 months ago
+Prasannakumar Wani,5,"""Good Quality""",8 months ago
+SHIV AYDNAL AYDNAL,5,"""No irritating while consuming""",7 months ago
+Anil Desai,4,"""The best product""",8 months ago
+ANILST,3,"""As of now, Not very effective.we will have to wait & watch.I will submit my feedback afterwards.""",8 months ago
+Shankar Maisa,5,"""Good""",9 months ago
+IQBAL AHMED KHAN,2,"""Very good""",8 months ago
+Murugesan.v,3,"""Not worthy.""",8 months ago
+Sushil kumar,4,"""Ok""",8 months ago
+Lalit Sharma,4,"""Control suger level, weight control but slow basis""",8 months ago
+Subhakanta Mohapatra,4,"""Good""",7 months ago
+GIRDHARGOPAL BANSAL,5,"""Best quality""",7 months ago
+Shakir Ahmad,5,"""Help to reduce blood sugar, I am not using any allopathy medicine.""",9 months ago
+Prem,4,"""Good""",9 months ago
+Jagannadharao Korada,5,"""I am using for the last 8 months or so, I am happy to continue using this.""",8 months ago
+Srinibas Pnigrahi,5,"""Its a better product""",8 months ago
+Vipinkumarsehgal,2,"""Totally dislike""",8 months ago
+BIKASH BHATTACHARJEE,5,"""This Product is excellent""",8 months ago
+Kamal Jeet,4,"""Good product""",8 months ago
+Yogesh Kulkarni,5,"""Good to maintain sugar""",7 months ago
+Pawan Goyal,3,"""2/5 लीटर की पेकिंग दीजिये, थोड़ा और सस्ता कीजिये,ऑनलाइन कमीशन बचाकर,बिलासपुर, छत्तीसगढ़ में  विक्रय हेतु स्थानीय बेरोजगारो को नियुक्त कीजिये, जामुन,करेला के साथ नीम भी शामिल कीजिये, 9907418774""",7 months ago
+K.l.ganga Prasad,4,"""It is good. You can feel the difference""",6 months ago
+Mohammad Muzaffar Salroo,4,"""Maintains suger level""",5 months ago
+Pradip Gorai,5,"""Good""",7 months ago
+Diptesh Thakkar,5,"""Fine""",6 months ago
+Sujit Kumar Ghosh,5,"""Everherb karela jumun juice is too much effective""",5 months ago
+Punith K,5,"""Nice""",7 months ago
+Ranganathan S,5,"""Karela jamun liquid is controlling the sugar. Good.""",5 months ago
+Sadashiv Rajaram Nerlikar,4,"""Good for Diabitic people.""",5 months ago
+Sriram C,5,"""Good""",5 months ago
+Deepak Kumar,5,"""Good in lowering the sugar level""",6 months ago
+Rajendra Lamba,5,"""Excellent juice for sugar levels""",6 months ago
+Rajendra Singh Sengar,5,"""Very good""",6 months ago
+Sayed Mohammed Eheeshamuddin,3,"""Awaiting next lab report to see the results. Too early to decide""",5 months ago
+Shahnawaz Ahmad,5,"""Meri mummy ki sugar level bahut achi rhi aur us ko bahut acha feel ho rha hn""",7 months ago
+Liaquat A Pathan,4,"""It is a good product, helps to control sugar level""",5 months ago
+Ranganathan S,4,"""A very useful product to reduce and maintain sugar levels.""",4 months ago
+Porus,4,"""Nice product""",3 months ago
+Satish Raina,5,"""It is very useful for lowering sugar levels""",4 months ago
+Raja Raman,4,"""No follow up calls""",3 months ago
+Amirthalingam,5,"""I like this product very much""",4 months ago
+Prakash Makwana,4,"""100/%નેચરલ""",4 months ago
+Akshatha A,3,"""I think my body heat increased""",3 months ago
+Ranjit Hanspal,5,"""Liked""",3 months ago
+Jennifer Lawless,5,"""If The Product is Excellent for me there is nothing to dislike""",2 months ago
+Pankaj Dafda,5,"""Very effective""",3 months ago
+Udayan,3,"""Quality has gone down. Less Karela and Jamun FLAVOUR was missing.""",2 months ago
+Peri Surya Narayana Murty,5,"""Excellent medicine to bring down sugar levels and weight as well!""",2 months ago
+Mohamed Ilyas,5,"""Good 👍 price""",1 months ago
+Ranjitsinh Chhasatia,2,"""Not much effective to the purpose of sugar control""",1 months ago
+Ramakanta Nayak,5,"""This is a good product""",30 months ago
+Kishore Kumar Prasad,3,"""Good""",30 months ago
+Prabhat Mallick,4,"""Like""",29 months ago
+Haresh Sc,5,"""G9\nOd""",27 months ago
+Dhimani Krishnappa Kundar,4,"""Good taste""",26 months ago
+Alamin Kazi,5,"""Its safe and.....""",24 months ago
+Mehul Joshi,5,"""👍""",24 months ago
+Raymond Dsouza,4,"""Good product""",26 months ago
+Sanu,4,"""Good product""",26 months ago
+Vamsy Dhar,5,"""It's really helpful in controlling my blood sugar levels""",24 months ago
+Mayur Sawant,2,"""Very bad product plz call me""",22 months ago
+Sanjiva Mohan Misra,4,"""Good product at reasonable price.""",21 months ago
+Rakesh Kumar Pathak,3,"""Good""",21 months ago
+Asha Gupta,5,"""Exilent""",21 months ago
+Ss Ssameena,5,"""It works  good""",21 months ago
+Kushal Singh Mehra,5,"""service is very good and on time""",21 months ago
+Sandeep,5,"""Product quality, discount, prompt delivery""",21 months ago
+Bhumika Shende,5,"""I like that jamun karela product but some medicine like cdk plus is not their in pharmeasy""",21 months ago
+Iqbal R Shaikh Shaikh,4,"""Good""",20 months ago
+Javid Hafiz,1,"""No improvement in sugar level""",20 months ago
+Sarita,4,"""Taste good""",20 months ago
+Prabhakar Harishchandre Patil,4,"""Pl tell me how and when to take""",20 months ago
+Ramprasad,3,"""Not much effoctivr""",20 months ago
+Vijendra Singh,4,"""Good""",23 months ago
+Ramya,2,"""Misled the product.""",22 months ago
+Rasamoy Mitra,5,"""Excellent""",19 months ago
+Jyotsna Tiwari,5,"""I like it""",19 months ago
+Samiran Gogaoi,4,"""I am getting good result in blood sugar level after using this product.Now I am continuing with the second bottol.""",19 months ago
+G.sudhakar Acharya,4,"""I liked the product item quality, packing, taste and delivery system. I shall recommend the same to my friends circle.""",19 months ago
+Banabihari Sahu,5,"""Packaging was very nice.""",19 months ago
+SUNNY SAHU,5,"""Very good product""",19 months ago
+Amit Sharma,5,"""It helps to maintain the sugar level naturally.""",19 months ago
+Pashi Kapur,3,"""Just started using,too early to coment.""",19 months ago
+Kharg Narayan Das,5,"""Karela Jamun juce is very useful, any other items like this may be intimated for future orders,""",19 months ago
+G.sudhakar Acharya,5,"""I like the product as It is very effective in controlling my Blood Sugar level and my craving for glucose sugar.\nI shall recommend the same to my friends and related groups connected to me.\nThank you.""",19 months ago
+KUWAR PRATAP SINGH,5,"""good n  resnable""",19 months ago
+BHUWANIRAM Yadav,4,"""Good""",15 months ago
+DebSankar Bera,5,"""Excellent""",16 months ago
+JOGINDER SINGH,5,"""Acharya h""",15 months ago
+Sandeep,5,"""Good""",15 months ago
+Rameez Hajwane,5,"""Sugar level is perfect after this I recommend this product to many of my friends for their parents & relatives""",15 months ago
+Anshu,3,"""Good ,can try it if you are at the early stage of daibetes""",15 months ago
+Ghanshyam Ghanshyam,5,"""Good👍""",15 months ago
+Sanjay Singh,4,"""Product was nice but measuring cup was few damaged""",15 months ago
+Vikash Kumar,5,"""This is very useful product for diabetic patient.it helps to maintain sugar level and clean the stomach also.""",15 months ago
+Amit Banerjee,4,"""Like""",15 months ago
+Mohan Sharma,4,"""Yes for sugar it helps … cannot comment on weight management . Also unclear if this can be used for long terms with out side effects""",15 months ago
+Sangeeta,2,"""Good product,taking this for 2 years.""",15 months ago
+Gautam Nasker,4,"""Good product""",15 months ago
+Haziqul Hoque,4,"""Uk""",14 months ago
+Paul Dsouza,5,"""Product  is good. Let me use for 15 days and see the results. I will check my fasting sugar etc. As nd then I will comments on the product""",14 months ago
+Mahmood Ansari,5,"""Good product 👍""",14 months ago
+Jn Tiwari,4,"""Like""",14 months ago
+Manna Lal Ghosh,5,"""Very good product""",14 months ago
+Vibhakar Kushwaha,5,"""Quality of the product is good.""",14 months ago
+Ajit Singh,4,"""I feel my sugar level low then before.""",13 months ago
+Sunnygill,5,"""good""",13 months ago
+PRAFUL   DESAI ,5,"""Very nice product, very very effective, recommended""",13 months ago
+Kalpesh Patel,5,"""Excellent & Energetic juice and help in reducing the excess weight""",13 months ago
+Atul Srivastava,5,"""Good for maintaining sugar lavle""",17 months ago
+Jyoti Tandiya Tandiya,5,"""This is good""",19 months ago
+Harish R Vora,5,"""Nice product""",18 months ago
+Manish Shah,4,"""My mummy liked the flavor""",18 months ago
+Gracius,4,"""Good""",18 months ago
+PharmEasy User,5,"""Good""",18 months ago
+A R Subrathna,4,"""Iam satisfied the product. No comments. In fact I have suggested my friends.""",18 months ago
+Ram Krishan Gupta,4,"""Good Product""",13 months ago
+Venugopal Karimpati,5,"""Good""",13 months ago
+Shah Krishnavijay,5,"""Good response thanks""",13 months ago
+Satyanarayana Prasadsammeta,5,"""I am fully satisfied""",13 months ago
+Surendra Gupta,4,"""Good for sugar control""",13 months ago
+kamalakar gangadhar diwakar,5,"""Very excellent product. I recommend to my relatives.""",13 months ago
+Hetal Parikh,5,"""Nice result oriented product""",13 months ago
+Gurunath Srikakula,3,"""Fair""",13 months ago
+NAMITA,5,"""The first bottle I ordered had a strong flavor of karela and it was good. The 2nd bottle has hardly any karela flavor & tastes acidic. I am not sure if this ok or something has gone wrong when it was stored in your shop. It would help if you can arrange a callback regarding this.""",13 months ago
+Rajendrakumar Purohit,5,"""Good for diabetes""",13 months ago
+PharmEasy User,5,"""Awesome product, good for all""",12 months ago
+KURIAKOSE,5,"""Just started today, l send back afterwards""",12 months ago
+K C Veerraju,3,"""I am using it only for last 3 days. I can’t give any view unless I complete one bottle.""",12 months ago
+LAXMI SHARMA,2,"""Not helpful""",11 months ago
+Fazad Hosan,5,"""It's a excellent product.""",12 months ago
+Rajendra Prasad Agrawala,1,"""After taking , latrine is too hard""",13 months ago
+kwange krishnarao,5,"""It's good for digestion""",13 months ago
+A,4,"""It is very effective product for sugar pationts thanks to you""",12 months ago
+Gajanan,5,"""nice product maintains sugar level""",12 months ago
+Tribhuwan Nath,5,"""It is worth in respect of every things like test etc""",12 months ago
+Avijit Goon,4,"""It's helpful reduce the high sugar levels""",11 months ago
+Anita,5,"""Original""",9 months ago
+Rajendrakumar Purohit,5,"""Very good""",9 months ago
+Sushithalalan K P,5,"""Very good product 🌹""",9 months ago
+Swamiramanuj Acharya,4,"""It has to be used for a longer period for real assessment of the med.""",9 months ago
+Asha Gupta,3,"""Not effective.""",9 months ago
+Sanjib,2,"""No return policy and quality of products very bad""",9 months ago
+Kandaswani,4,"""It is nice! Shortly l will order BTW 8k work medicines""",8 months ago
+Jai mishra,5,"""Good product for diabitic""",9 months ago
+Jiaul Haque,5,"""Excellent products""",9 months ago
+Smruti S.bapat,5,"""It is very helpful""",8 months ago
+Uttam Chand Goyal,5,"""Very good for sugar maintain.""",8 months ago
+RatanKumar Paul,5,"""No""",8 months ago
+shoeb Akhtar,5,"""Nice thanks""",8 months ago
+Renubansal,5,"""Excellent""",7 months ago
+Basavraja K,5,"""It helps in reducing sugar levels. And thanku""",7 months ago
+S Vishnu Sai,1,"""It is making my mout gums week""",8 months ago
+Shankar,2,"""I used this product without miss any day for 3 months. But not found any helpful""",8 months ago
+Thakur Aditya Vardhan Singh,5,"""Good""",7 months ago
+Farid Najmuddin Shaikh,5,"""Good in taste, got better results""",7 months ago
+Shehla Gazal,1,"""I am not satisfied with this juicer""",7 months ago
+Rumi Srinivas Chowdhury,5,"""Good""",6 months ago
+Dinesh Chand Upadhyay,5,"""Very good product with new taste""",6 months ago
+Ainavolu Vimala Devi,5,"""Experience was too good""",7 months ago
+Subhash Kumar Ghosh,5,"""Best for suger control""",7 months ago
+Pradeep Jain,5,"""Super""",6 months ago
+A R Subrathna,4,"""Taste I liked""",6 months ago
+Gadireddy ArunKumar,5,"""Good""",5 months ago
+Md Daud Salfi,5,"""Well done👍👍""",5 months ago
+Surekhaben Patel,4,"""Very good""",5 months ago
+kamalakar gangadhar diwakar,5,"""After use of product my sugar level is come to 100 fasting and 140 p.p. Now I am using product regularly. Thank you""",5 months ago
+SANKARAMOORTHY SUBRAMANIAN,4,"""Very useful&effective""",5 months ago
+T,5,"""Good""",5 months ago
+Dayal Rijhwani,5,"""It's good and effective...thankyou""",4 months ago
+Radheshyam Gupta,3,"""I have consume half liter but no improvement yet observe fasting sugar levels is found today 241\nPl advice""",4 months ago
+Subhas Chandra Pal,5,"""Good product.Liked it.""",4 months ago
+Gopalakrishnan Ramachandran,5,"""Increase metabolism""",4 months ago
+Aaditya Jain,5,"""Excellent product""",3 months ago
+.,5,"""It helped maintain weight, sugar""",3 months ago
+Mukund Sejpal,4,"""It is not bitter enough. It is diluted with water. While other co. karela neem & awla is so bitter we have to dilute it.""",3 months ago
+Savitri Aghi,2,"""Started loose motion""",3 months ago
+Dillip Kumar Sahoo,5,"""I liked very much due to positive result.""",3 months ago
+kamalakar gangadhar diwakar,5,"""Very effective product""",3 months ago
+Naresh N More,4,"""जेव्हा मी रक्त तपासणार तेव्हा गुणवत्ता समजेल.""",2 months ago
+Madhu Khanna,5,"""This syrup is good""",2 months ago
+K Palani Vellu,4,"""Karela taste. Gives results as needed.""",1 months ago
+Jitendra Patil,5,"""Good""",1 months ago
+Pradip Jha,5,"""Excellent""",1 months ago
+Rajendrakumar Purohit,5,"""Like""",3 weeks ago
+MADHAVAMURTHY SAVANOOR,4,"""Helping me to maintain sugar level.""",1 weeks ago
+ANIL,3,"""Both bottle mixing not proper""",1 weeks ago
+A,5,"""To be good for which l am waiting for good result.""",2 months ago
+Prasad Kumar A ,4,"""Liked""",2 months ago
+K Palani Vellu,4,"""Karela taste. Gives results as needed.""",1 months ago
+Jitendra Patil,5,"""Good""",1 months ago
+Jayaben,5,"""Excellent""",2 weeks ago
+MADHAVAMURTHY SAVANOOR,4,"""Helping me to maintain sugar level.""",1 weeks ago
+wilma monteiro,5,"""Good""",2 days ago
+PharmEasy User,4,"""I want to buy one more...how to do that.""",27 months ago
+Swapan Kumar Ghosh,3,"""Result is not satisfactory""",26 months ago
+Sourabh Sanyal,5,"""Good in sugar control""",29 months ago
+anantakumar mazumdar,5,"""It is better than before.""",28 months ago
+Subodh Nigam,4,"""Testy""",24 months ago
+Varadaraj Chakravarthi,3,"""Packaging""",24 months ago
+Subiman Ghosh,1,"""Dislike""",24 months ago
+Vijay,3,"""No""",24 months ago
+Amit,5,"""quality""",23 months ago
+PharmEasy User,4,"""It is helping to maintain sugar levels to some extent..can give better comment after using this for another 3 months regularly""",23 months ago
+Sanjay Kumar,4,"""Effective""",21 months ago
+SUSMITA SAHA,4,"""Smpll""",20 months ago
+Jayanta,4,"""Like""",19 months ago
+Suresh Lala,3,"""Just started shall send my feedback""",19 months ago
+Pabitra Chowdhury,2,"""Not good for diabetic patient.""",19 months ago
+Girishkumar Makadia,5,"""Very good""",19 months ago
+Priscilla Nancy,2,"""It's very diluted watery""",19 months ago
+Sunil Soni,4,"""Just like it""",19 months ago
+Anil Shivram Patil,4,"""I like  the Product""",19 months ago
+Sanjay Jain,4,"""8802919176""",18 months ago
+Nimit Varma,1,"""Bad product not a single unit of diabetic has been changed. Before fasting 350 and after having karela jamun juice same 348 diabetic reading since last 1month i m consuming the same but no result worst product""",18 months ago
+Kalyan Kr Barman,3,"""Till now not seeing much umprivement in my syger level. So better i think we can xonsume tge product directly""",18 months ago
+Santosh Kahane,5,"""Good""",18 months ago
+K C B Gupta,5,"""Good""",18 months ago
+Satish Ajagaonkar,5,"""Weight control""",18 months ago
+Ziaur Rahman,4,"""Good product""",22 months ago
+Kalaiarasi.a,4,"""I like the product""",22 months ago
+Asha Gurav,4,"""Good""",22 months ago
+Debabrata Das,5,"""Product is very useful.""",22 months ago
+ManoharLincoln  Gnaniah ,5,"""I like it because of useses""",22 months ago
+Kashinath Dujji,4,"""Taste is not like karela""",22 months ago
+Dinesh Berawala,3,"""Not happy with maintain of sugar level""",21 months ago
+Rashida Ratlamwala,4,"""It helps to control diabetes""",21 months ago
+Veena Jagannath,5,"""Awesome. Came in plastic Covers. Why?""",17 months ago
+Rani Srivastava,5,"""It is good for sugar patient""",17 months ago
+Satish Pote,1,"""Not Real""",17 months ago
+Sham Shad Baga.,5,"""Good""",17 months ago
+Soumya mishra,4,"""It is ok""",20 months ago
+Mukthar Shaikh,4,"""Ok""",20 months ago
+Bhagya Sampat,5,"""It is a wonderful drink in the morning, it is really refreshing""",20 months ago
+Jayprakash Singh,5,"""Very satisfactory.""",19 months ago
+Rajendra Lamba,5,"""Satisfied with the product""",20 months ago
+Kapil Dev,4,"""Good for diabetes""",20 months ago
+Nazim Shaikh,5,"""Best.""",20 months ago
+Usha Verma,3,"""Still try to consume more to ascertain exactly.I feel it is useful.""",19 months ago
+Ayan Adhikary,5,"""Good""",19 months ago
+Shankar Agarwal,4,"""I like this product.""",19 months ago
+NANCY,4,"""Do I have to take it on empty stomach?""",19 months ago
+TTATARTARUTARUNTARUN MMEMEHMEHTMEHTAMEHTA,5,"""Very good""",20 months ago
+Dr.yogesh Ashar,2,"""No satisfied""",20 months ago
+Salma,2,"""I hate""",20 months ago
+MURALIDHAR NARASEPALLI,4,"""If blood sugar controls it will be okay""",9 months ago
+Navneet Singh Rajpurohit,1,"""Ever herb pain reief oil""",8 months ago
+Sharda Kevllani,1,"""Dislike""",8 months ago
+SANJIVANI BHANDEGAONKAR,2,"""Juice is very useful""",8 months ago
+Vishal Borse,4,"""Like""",9 months ago
+Maxie Rodrigues,4,"""Awaiting for  good result on sugar level""",9 months ago
+Braj Mohan Prajapati,5,"""Useful product for diabities my fasting 110""",9 months ago
+PRIYANKA EDWANKAR,5,"""Amazing product it’s help is blood sugar n weight management""",9 months ago
+Sanjay Agarwal,5,"""Excellent""",8 months ago
+Ashutosh Dutta,3,"""Good but help me.""",8 months ago
+B B Wagadari,4,"""It's ok""",8 months ago
+Vasant Godbole,5,"""A Boost to Existing Immunity""",8 months ago
+Mohammed KhajaMohinuddin,1,"""After consuming 3 days morning and evening in empty stomach, i sick and suffering with cold cough and fever, from two day's onwards stoped consuming, may it not suitable for my body.""",8 months ago
+Rajeev Mohan Gupta,2,"""Quality is not good""",8 months ago
+PharmEasy User,4,"""Good""",8 months ago
+Priyabrata Das,4,"""It's good for diabetes person""",8 months ago
+C Muraleedharan,5,"""Good""",8 months ago
+Madan Gopal Puri,2,"""Kerla Juice  No So Goods Thanks""",8 months ago
+Prasanta Kumar Parhi,3,"""It is acidic.Causing stomach problem.""",8 months ago
+Shailesh Kumar J Deesawala,5,"""We good effect.""",8 months ago
+Manasi Sunil Shinde,5,"""Sugar maintain""",7 months ago
+Verma,3,"""Pure jamun  jush""",15 months ago
+SIPPU SUMAN,1,"""Verry bad""",16 months ago
+Ashiqueakhter,5,"""Very well done""",15 months ago
+Rinku Ravindervijay,5,"""Nice""",15 months ago
+Murad Devani,5,"""Excellent""",15 months ago
+Kangyampeta Narayana Chetty,4,"""It looks good and working""",15 months ago
+Kirti Kumar Ashar,4,"""I like it. I used to take in every morning empty stomach""",14 months ago
+Pandu Ranga Dev,5,"""Good product""",14 months ago
+D M Junaid,5,"""Vgood""",14 months ago
+Tarun,5,"""Feel good""",13 months ago
+Nikhil Kumar,4,"""Good""",13 months ago
+Manilal Rughani,4,"""It is a herbal product. Efficacy to be assessed.""",14 months ago
+PharmEasy User,5,"""Super""",14 months ago
+Shyam Prasad Nirala,5,"""The product Karela Jamun extract is too much good for Diabetic type 2 patient.""",14 months ago
+Suresh Soni,3,"""Good health""",14 months ago
+Kaushik Dey,5,"""Nice but it includes delivery charge""",14 months ago
+Sanjay,5,"""Oky""",13 months ago
+Sanjay Baidya,3,"""Not saw effective""",13 months ago
+V,5,"""Excellent trustworthy workable amazing product.""",13 months ago
+R M Malhotra,2,"""Not helping to lower su.level""",14 months ago
+Sanjay D Lembhe,4,"""It o k""",14 months ago
+PharmEasy User,5,"""Very Good results""",14 months ago
+FULCHAND MAURYA,4,"""service very good...""",14 months ago
+Sambhunath Pal,5,"""Very good & useful""",14 months ago
+Ghanshyamsinh K Vaghela,4,"""Without season we can't get karela & jambu.""",14 months ago
+Vikas Gupta,1,"""Very thin and not good""",13 months ago
+Mrs Salomy Joseph,4,"""Helpful for diabetes control""",13 months ago
+K.c.mukund,4,"""It's clearing my stomach.""",13 months ago
+K.c.mukund,5,"""My diabetic hunger has reduced very much inspite of talking 15 ml juice/ day. May be it is due to Karela & Jamun juice or other wise.""",13 months ago
+IQBAL KARNEKAR,5,"""Very nice product""",13 months ago
+Sriram C,5,"""Good""",12 months ago
+Zainuddin Khan,2,"""Dislike.feel throught problem after 2 dose""",13 months ago
+Mrs,4,"""Most of the time many products are not vailable.""",13 months ago
+Faruk,3,"""Good product 👌""",13 months ago
+Manoj Kumar Misra,1,"""Allergy symptoms on skin""",13 months ago
+Roshanlal Bhardwaj,5,"""Good for diabetic patient""",13 months ago
+Md Sarosh HayatAli,1,"""It's not working. Not good for controlling diabetic""",12 months ago
+Rajesh Mehta,5,"""It is really works Thanks""",13 months ago
+Mohd Irshad Ahmed,5,"""Good""",13 months ago
+V K CHUTARVEDHI,2,"""poor""",13 months ago
+Uday Kumar Pal,5,"""Nice product, waiting for result""",12 months ago
+Ravindra Kumar Srivastava,5,"""It’s excellent""",12 months ago
+MAHESH,1,"""I had give three order but received two order goods medicine""",7 months ago
+N Ravichandran,5,"""It’s a good and easy alternative to other allopathy medicines and is very effective too . Taste is not bad and easy to consume . Highly recommended""",7 months ago
+Kiran Sanghavi,5,"""Ease of ordering and prompt delivery.""",7 months ago
+Wycliff Christian,5,"""Very nice""",7 months ago
+SANKARAMOORTHY SUBRAMANIAN,4,"""Karela jamun juice is v.useful in sugar control""",7 months ago
+Kamlesh  pawar,5,"""I feel better when I drink just now 2 week let see few more days""",6 months ago
+Bhabani Sankar Mohapatra,5,"""Good""",7 months ago
+Neeraj Yadav,5,"""I have stopped my all medicine because of this juice""",7 months ago
+PharmEasy User,5,"""Very good quality""",7 months ago
+A,5,"""I like had a good effect Sir.""",7 months ago
+Praveen Ghosh,4,"""Good one""",7 months ago
+Dhwani Manoj Bengani,5,"""Nice 👍""",6 months ago
+Anurag Kumar Srivastava,2,"""Test""",6 months ago
+B N Pandey,4,"""It’s good""",6 months ago
+John জন Bansriar রবি (robi),4,"""Thanks you""",6 months ago
+Meena Dashrath Rane,5,"""This products very nice for wet rduch and diet diles very good.""",6 months ago
+Deepak Kumar,1,"""Not a real juse""",5 months ago
+Srinibas Pnigrahi,5,"""It's good""",5 months ago
+Shashank Bhardwaj,4,"""Taste and price are good""",11 months ago
+Naveen Dani,1,"""Not effective""",11 months ago
+Santosh khude,4,"""Good""",12 months ago
+RAVIN CHOPRA,5,"""Very good for people with diabeties""",12 months ago
+Afque Shaikh,1,"""Due to this juice my father got cold n flu 😷""",12 months ago
+Vikram Potbhare,3,"""Too much water added""",11 months ago
+K S Rao,3,"""I like the. Taste and am taking it daily once. I haven't assessed the effectiveness.""",11 months ago
+Giridhar,5,"""Good""",11 months ago
+RAVIN CHOPRA,5,"""It is very useful for diabetics""",12 months ago
+F C BANAIT,1,"""No improvement. We have consumed  16 bottles me  and my wife.Sìx we have already purchased one out of the six in use.This is wastage of money  and time and remaining with problem asto herefore.""",12 months ago
+R,4,"""Not good""",12 months ago
+Arya Jumde,4,"""It's very effective on diabetes""",12 months ago
+Ashok Kumar Bhowmick,2,"""Not very good""",12 months ago
+Gh Ahmad Bhat,5,"""I like the product as""",11 months ago
+Gazan Ali,5,"""Very happy""",9 months ago
+Ramesh Narayan Deshmukh,3,"""Best""",9 months ago
+BIKASH BHATTACHARJEE,5,"""Used last 3 1/2 yrs feel better. Like very much. Good product.""",4 months ago
+Santosh Madkaikar,3,"""Not much effective""",4 months ago
+A R Subrathna,4,"""It has helped me to control my sugar level""",3 months ago
+Anthony Fernandes,3,"""Product is ok""",5 months ago
+Sultana Imtiaz,5,"""V good""",5 months ago
+Amarnath Gupta,5,"""Best""",4 months ago
+Avishek Mondal,5,"""Good product""",3 months ago
+PharmEasy User,5,"""The Best Quality""",3 months ago
+PharmEasy User,5,"""Good""",3 months ago
+Gajendra Garg,2,"""Not value for money""",2 months ago
+Amreet Ranjan Borah,4,"""Quite helpful""",6 days ago
+Vasant Patel,5,"""Good product""",2 months ago
+Dillip Kumar Sahoo,5,"""Good for stomach also""",1 months ago
+Khatib Perwez Ahmed,4,"""Everything""",1 months ago
+Satya Ranjan Mandal,1,"""Quality issues""",1 months ago
+Shashikant,5,"""Excellent""",1 weeks ago
+Sonia,5,"""Good""",1 months ago
+Virendra Gandhi,5,"""Taking daily morning/night regularly & feel improvement.""",31 months ago
+Gopalakrishnan,5,"""Tastes good""",31 months ago
+Sunil Shah,5,"""Excellent product . Feel good and little pain were in body , disappeared. Taste is not so unbearable. Now i am comfortable with taste also.""",31 months ago
+Vaibhav,4,"""Good""",30 months ago
+PharmEasy User,5,"""It's wonderful n working""",29 months ago
+Tp Srivastav,5,"""Reduction in sugar levels and lethargy""",28 months ago
+Zaki Anwar,4,"""Yea it is improving immunity.""",28 months ago
+Vazhayil Binu,5,"""Very good""",28 months ago
+Kuldeep Kumar,4,"""I feel balanced my blood sugar level""",27 months ago
+Suhasini,2,"""Not reducing blood  sugar &diabetes""",27 months ago
+Vidyasagar Bontha,2,"""I don't find any improvement""",24 months ago
+JOGESWAR PRADHAN,4,"""Like""",23 months ago
+Yashi,5,"""On time delivery and great assistance. Overall an amazing and easy to use app.""",22 months ago
+Mohammad Mazharuddin Ansari,1,"""Good for diabetes""",22 months ago
+Shridhar,5,"""Good for diabeties""",22 months ago
+Rupak Bhowmik,4,"""Good""",22 months ago
+juhideepak pandey,5,"""Osm""",25 months ago
+Amit Rajput,1,"""Na""",26 months ago
+Pradip Jha,5,"""Excellent""",25 months ago
+PharmEasy User,4,"""Decrease my sugar levels""",24 months ago
+Rohit Jana,5,"""Sera""",23 months ago
+Amjath Ali,5,"""Karela and jamoon juice is feels good and after few weeks only, came to know the result.""",23 months ago
+V Srinivasan,5,"""Super efective""",23 months ago
+Panda,1,"""It is quite a useless product.""",22 months ago
+ManoharLincoln  Gnaniah ,4,"""Product as prescribed by my Doctor \nI have returned ROSALET medicine the value and it’s receipt may be informed me""",22 months ago
+Shakil Ahmed,5,"""Bast""",22 months ago
+Devendra Sharma,5,"""Good""",22 months ago
+Shishir Kumar Mishra,4,"""Nice products""",22 months ago
+Pramod Kumar Tyagi,5,"""Very very useful product""",21 months ago
+Abdul Qadir,5,"""very very effective for my diabetic sugar level amazing  controlled  thank  you  dr  mom who voluntarily  asked to me by one bottle karela jamoon juice and asked me to observe sugar level  and then slowly reduced the tablet power\njust i used only one bottle juice i stopped my istamet 50mg/500mg tablet\n thaks dr who recommended me this valuable juice""",21 months ago
+KAVISH JAIN,4,"""Good for sugar,level maintain""",21 months ago
+Chandan,5,"""Excellent""",16 months ago
+Himanshu Agarwal,5,"""Good""",16 months ago
+dritcustomer,2,"""Not that much useful""",14 months ago
+GOBIND KATARIA,5,"""I had tried a year back. Satisfied""",14 months ago
+Murad Devani,5,"""Excellent juice 👌""",14 months ago
+Akhouri Binay Kumar,5,"""Excellent""",14 months ago
+Vidya Sagar Dixit,5,"""Good for healthy life""",14 months ago
+Kailash Newar,5,"""Quick service""",14 months ago
+RALPH FENANDIZ,3,"""Now ots dialuted badly""",14 months ago
+Dilip Debnath,5,"""Like""",14 months ago
+Dennis Fernandes,3,"""The product is very very bad after drinking the product I was admitted in hospital please take the product back""",14 months ago
+Ajit Kumar Ppb,1,"""Leaves a very bad taste in the mouth""",14 months ago
+Pawan Kataruka,4,"""The liquid is very thin , it should be slightly more thick""",14 months ago
+Manish Patel,4,"""Not helping in weight management""",14 months ago
+D M Junaid,5,"""Vgood""",14 months ago
+BHARAT KUMAR RUIA,5,"""Fine""",20 months ago
+Chandra Mohan Singh,5,"""Superb to manage blood sugar level.""",20 months ago
+Ramesh Sohoni,2,"""I consumed the product for over a month along with regular allopathic medicines.Hba1c increased from 7 to 8.Still I want to give more time for the product.So I have ordered one more bottle.Let is see the results after a month.""",19 months ago
+VENKATESWARAO KADALI,5,"""Very good it is very useful""",19 months ago
+DIPAK GAYEN,5,"""Good quality""",19 months ago
+Archana,2,"""Itna accha nhi hai sugar level me koai fark nhi pda 8 din se dono time le rhe hai""",19 months ago
+Dinesh,4,"""Like""",15 months ago
+Soumitro Das,4,"""Good product""",15 months ago
+Sanjoy Kumar Roy,5,"""Useful product.""",15 months ago
+rehmat shaikh,3,"""Like""",15 months ago
+Avertano,5,"""Excellent""",15 months ago
+Bhupendra Jain,4,"""test good""",15 months ago
+Muthukumara,2,"""What time eat sir""",15 months ago
+Arun Kumar Shrivastava,5,"""Very effective""",15 months ago
+Anil Dhere,4,"""Very good""",13 months ago
+Manzoor Ali,5,"""5""",13 months ago
+Kamalendu Prakash Panda,5,"""Worth for money""",13 months ago
+Lajpat Rai,5,"""Nice  it controled my sugar""",13 months ago
+kamalakar gangadhar diwakar,5,"""Product was excellent. My sugar came to normal. Hence\nI again purchased two bottles \nfor two months. I also recommend this product to my\nrelatives.  Nice product""",13 months ago
+Aftab Alam,5,"""Very like""",19 months ago
+B K SHARMA,5,"""Karela & Jamun juice is a wonderful product to maintain sugar level""",19 months ago
+Santhosh G Nair,3,"""Half of the bottle used. Till now no effect found it.""",21 months ago
+Shiva Prasad,1,"""I have not received product""",20 months ago
+PRASANNA  KUMAR DASH,5,"""Payment of unline is always trouble""",20 months ago
+NANCY,4,"""Do I have to take it on empty stomach?""",19 months ago
+Ashiqueakhter,4,"""Well""",19 months ago
+Akbar Ali,3,"""Will affect the Kidney?""",21 months ago
+Gaurav,2,"""Bad  quality""",21 months ago
+Rajesh G Dave,4,"""I like your product""",20 months ago
+ssayeeda Fathima,4,"""I'm satisfied with this product after 1week i am writing this review""",20 months ago
+PharmEasy User,5,"""Best""",19 months ago
+Gajendra Panigrahi,4,"""Effective""",18 months ago
+G A N Karkikar,4,"""Good.""",18 months ago
+Sumit Jha,4,"""Good to have it in our diet.""",18 months ago
+Sharad Deshpandey,4,"""It looks like good 👍""",18 months ago
+Mohan Kumar,5,"""Call back 9845035801 to order medicine and order your  syrup""",18 months ago
+Usha Pillai,2,"""No effect on sugar levels as proclaimed""",18 months ago
+Pushpam Shah,4,"""It's  ok but expensive""",18 months ago
+Sandeep,4,"""Good""",17 months ago
+Sanjay Pandey,4,"""Ggg""",17 months ago
+Gracy Rodrigues,5,"""Excellent""",18 months ago
+Nawin Kumar,5,"""Very nice to control glucose""",17 months ago
+Vijay Bajaj,4,"""A bit watery""",17 months ago
+PharmEasy User,4,"""I like vansar from baidyanath.""",12 months ago
+Mukesh Arora,4,"""Need to better the taste""",12 months ago
+Abhilash Pb,5,"""Very good""",13 months ago
+Reshma Yasmeen,4,"""Good""",13 months ago
+Allen,5,"""Initial readings of blood sugar are very encoraging""",13 months ago
+Hashmi Rahman,5,"""Well service""",12 months ago
+Lotan Shah,5,"""Very good""",12 months ago
+Sanjay,3,"""Good for sugar leval""",12 months ago
+Rajangam,3,"""Why suddenly the rate was increased?""",12 months ago
+puja Pradhan,5,"""Good""",13 months ago
+Manoj Kumar Rai,1,"""Yes I like this product""",13 months ago
+B Mishra,5,"""Excellent""",13 months ago
+Md Salim,5,"""Very good product""",13 months ago
+Amit Kumar,5,"""It's fantastic product from everherb""",12 months ago
+R Suresh,4,"""Nice""",13 months ago
+PharmEasy User,5,"""It works control diabetes well.""",13 months ago
+Veena Maini,2,"""Even after 10 days no difference in my sugar level.""",13 months ago
+Subrata Chakravarty,1,"""Order was not delivered""",12 months ago
+Prashant Rajput,4,"""Good""",12 months ago
+E,5,"""Good experience""",12 months ago
+Surendra Sarkar,4,"""Just started using""",12 months ago
+kwange krishnarao,5,"""It's excellent for sugar""",12 months ago
+Vijay Pareek,2,"""Result Bad""",11 months ago
+Ayaz khan,5,"""Awesome product for diabitic""",11 months ago
+Sudhir,5,"""Excellent""",11 months ago
+Srikant Lala,5,"""Good,very good,SUPER,Excellent.""",11 months ago
+Sandeep Patil,4,"""Karela jamun juice was useful for health sugar level maintained noticable""",9 months ago
+Hiranya Kumar Hazarika,5,"""Very good""",9 months ago
+Narensinh Rathod,5,"""Best product""",9 months ago
+Mukesh,5,"""Bahot achha hai""",9 months ago
+Appaji Bhalekar,4,"""Good""",9 months ago
+Ramesh Dewan,4,"""Consuming from last month's. Result yet to observe""",9 months ago
+Md Firoz,5,"""Very good product""",9 months ago
+M Laskar,4,"""Improve the Croc""",8 months ago
+Gopalakrishnan Ramachandran,5,"""Improved digestive system""",9 months ago
+Mohammad Kotadiya,2,"""Good""",9 months ago
+Vikash Gupta,3,"""Like""",9 months ago
+Ashok Ratra,4,"""good product""",9 months ago
+Shirumalla Peddanna,3,"""More karela & less Jamun""",9 months ago
+Dss Bhaskara Rao,5,"""VERY HEALTHY""",9 months ago
+Bibhuti Ojha,3,"""Like""",9 months ago
+Amitkumar Singh,1,"""No use if not prescribed""",9 months ago
+Mahesh,1,"""Not good in taste and product is not Upto mark compare to earlier purchased.""",9 months ago
+Pankaj Ikhar,5,"""Excellent to control diabetic""",8 months ago
+Kamalkant Bhandari,5,"""Good to use and beneficial for health""",8 months ago
+SANKARAMOORTHY SUBRAMANIAN,4,"""Well packed,reliable Good and effective for diabetics""",8 months ago
+Jackson Coutinho,5,"""Its working fine Thanks""",8 months ago
+SHATABDI BHADRA Bhadra,4,"""Very good""",8 months ago
+SAURABH KUMAR,5,"""Well packaged karela jamun juice.""",7 months ago
+Atiqua Mazhar,4,"""Very helpful product""",7 months ago
+Khuteja Bi,3,"""We like your product""",8 months ago
+Ratan Kumar Mallick,4,"""It is natural extracts of herbs ..""",8 months ago
+Ashim Dutta,4,"""Taste was different this time.""",8 months ago
+Deepak Poswal,5,"""Very good product for control of sugar level""",7 months ago
+PRAFUL   DESAI ,4,"""Excellent, very effective""",7 months ago
+Sanjay Agarwal,4,"""It is better but now the taste is different from earlier bottle.""",7 months ago
+AnanthaKrishna Kukkillaya,5,"""Good one""",7 months ago
+R Ramesh,5,"""Good""",7 months ago
+Lalit Dhanwani,1,"""Very very bad taste""",7 months ago
+Jovial Christie,5,"""It reduce sugar""",7 months ago
+Jiwan Lal,5,"""Good, effective, easily available, optimum price""",7 months ago
+Nk Mishra,4,"""पीने में अच्छा लग रहा है""",7 months ago
+Kvane Mohen,5,"""Natural and without side effects""",6 months ago
+Ramesh Kumar Choudhary,4,"""I have taken the product for 3 days only""",6 months ago
+SANKARAMOORTHY SUBRAMANIAN,4,"""Karela jamun juice is helpful in controlling sugar.""",6 months ago
+Praveen Kumar Tiwari,5,"""Result is good to control diabetes""",6 months ago
+Aa,4,"""Good""",6 months ago
+Rajendra Sah,5,"""Good product""",5 months ago
+Kapil Kumar Agrawal,5,"""Very Good""",5 months ago
+SANJAY SHARMA,5,"""Excellent""",5 months ago
+Devinder Kumar,5,"""Good for health""",5 months ago
+KALPANA SAIKIA,3,"""Like it""",4 months ago
+Ved Makkar,5,"""Best for diabetes patients""",4 months ago
+Prabir Chaudhuri,4,"""Doze should also be mentioned. Or you representative should inform patients.""",4 months ago
+Jyoti kapadia,5,"""Very fine""",4 months ago
+Nitish Rawat,5,"""Like""",4 months ago
+MOHD AKBAR,5,"""Good Product""",3 months ago
+PRAFUL   DESAI ,5,"""Most effective I feel. Sugar under control. Really worth""",3 months ago
+Chetan Thanaki,3,"""Good""",4 months ago
+Ranganathan S,4,"""Maintain sugar levels""",3 months ago
+.,5,"""It helped me to keep my sugar in control.""",3 months ago
+RAMAYAN PRATAP SINGH,3,"""Till date no significant results have seen after taking 40 days medicine.""",2 months ago
+Latif Ali,1,"""First time is good but now this product is lite""",1 months ago
+Nazir Mohammed,5,"""Good""",1 months ago
+Suresh Roy,5,"""Very good for reducing weight and body sugar levels""",5 months ago
+Hiravati Gangar,2,"""Very bed test""",5 months ago
+Manohar Jageshiya,5,"""Karela-Jamun juice, very nice""",3 months ago
+Pankaj Jhaveri,5,"""Nice product, good quality.""",3 months ago
+Manhar Sanchaniya,5,"""Karela&Jamun Juice is very Infective & Excellent For Diabetic""",3 months ago
+Hitendra,5,"""Good for health""",2 months ago
+Geet,4,"""Product satisfactory""",4 months ago
+Nirmalkumar Valecha,3,"""Concentration is much less than my 1st order""",3 months ago
+Nazir Janab,5,"""Very very like""",2 months ago
+Raman Krishnamurthy,5,"""Good quality""",1 weeks ago
+Anupam Roy,1,"""Very bad experience""",3 weeks ago
+Chandni Gupta,5,"""It is very useful and healthy""",4 weeks ago
+Rajendra Garg,4,"""Satisfactory  performance""",3 weeks ago
+Kabindra Thakuria,5,"""Good product but delivery service very poor""",3 weeks ago
+Vendan,4,"""Add more ingredients to make more stronger medicine and make public to take the syrup and leave allopathic medicine.""",2 weeks ago
